@@ -1,0 +1,27 @@
+/* Universal selector */
+html {
+    font-size: 16px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#banner {
+    width: 100%;
+    height: 40rem;
+    background-image: url("../images/pexels-mikebirdy-192364.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#banner .content {
+    
+}
+
+#banner .content h1 {
+    font-size: 3rem;
+    color: black;
+    text-align: center;
+}
