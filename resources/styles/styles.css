@@ -7,6 +7,11 @@ html {
     box-sizing: border-box;
 }
 
+/* Header */
+
+
+
+/* Banner */
 #banner {
     width: 100%;
     height: 40rem;
@@ -26,3 +31,7 @@ html {
     color: white;
     text-align: center;
 }
+
+/* Mission */
+
+/*  */
